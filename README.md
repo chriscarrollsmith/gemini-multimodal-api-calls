@@ -1,6 +1,6 @@
 # Gemini multimodal API calls
 
-This is a simple demo repo that shows how to make multimodal API calls to Gemini 2.0 Flash. The code should work with any kind of media, including images, videos, audio, and PDFs. You only need to change the `media_path` and `prompt` in the `main.py` file to fit your use case.
+This is a simple demo repo that shows how to make multimodal API calls to Gemini 2.0 Flash with LiteLLM. (I found the LiteLLM documentation on this inadequate.) The code should work with any kind of media, including images, videos, audio, and PDFs. You only need to change the `media_path` and `prompt` in the `main.py` file to fit your use case.
 
 ## Prerequisites
 
